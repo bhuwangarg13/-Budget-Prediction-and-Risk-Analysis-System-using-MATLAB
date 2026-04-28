@@ -1,0 +1,14 @@
+Expense-Predictor-ML/
+│
+├── data/
+│   └── expenses.csv
+│
+├── src/
+│   ├── model.py
+│   └── predictor.py
+│
+├── main.py
+├── README.md
+├── requirements.txt
+└── outputs/
+    └── graph.png
